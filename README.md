@@ -1,4 +1,5 @@
 # vue-starter
+### A vue - bootstrap-vue - SCSS started pack
 
 ## Project setup
 ```
