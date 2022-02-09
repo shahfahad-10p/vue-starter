@@ -6,3 +6,6 @@ body {
   color: $primary-color !important;
   background: $primary-color;
 }
+
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
